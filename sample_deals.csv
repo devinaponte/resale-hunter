@@ -1,0 +1,7 @@
+product,source,buy_price,estimated_resale_price,confidence_score,url
+Sony WH-1000XM5,Best Buy,199.99,300.0,78,https://example.com/sony
+Nintendo Switch OLED,eBay,214.0,300.0,76,https://example.com/switch
+Milwaukee M18 FUEL Combo Kit,eBay,149.0,260.0,72,https://example.com/milwaukee
+LEGO Retired Set,eBay,145.0,205.0,68,https://example.com/lego
+Gaming Headset,Best Buy,59.99,85.0,80,https://example.com/headset
+Apple AirPods Pro 2,eBay,129.0,190.0,74,https://example.com/airpods
